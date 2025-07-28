@@ -1,5 +1,5 @@
 # Forest Cover Type Prediction 
-A simple ML project that predicts the type of forest cover using a Random Forest Classifier. Built with Streamlit for an interactive UI.
+A ML project that predicts the type of forest cover using a Random Forest Classifier. Built with Streamlit for an interactive UI.
 
 ##  Features
 - Predicts one of 7 forest cover types
